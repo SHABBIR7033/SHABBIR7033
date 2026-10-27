@@ -1,13 +1,9 @@
 <div align="center">
   <img src="github-banner.png"
-       alt="MD Shabbir Ali Khan — AI/ML Developer"
+       alt="MD Shabbir Ali Khan — AI/ML Developer | Python | Machine Learning"
        width="100%">
 </div>
  <div align="center">
-
-# MD SHABBIR ALI KHAN
-
-### AI/ML Developer | Python | Machine Learning
 
 **Turning ideas into intelligent, practical software.**
 
